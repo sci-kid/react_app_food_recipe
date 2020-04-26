@@ -1,3 +1,5 @@
+https://developer.edamam.com/edamam-docs-recipe-api
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
